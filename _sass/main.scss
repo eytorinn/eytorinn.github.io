@@ -52,7 +52,7 @@ footer{
 	grid-row-end:5; 
 	background: lightgreen;
 }
-.topnav{
+.nav{
 	grid-column-start: 1;
 	grid-column-end: 5;
 	grid-row-start: 1;
@@ -124,7 +124,6 @@ body{
 		grid-row-start:3;
 
 	}
-}
 /* == Viðmið 37.5 (600px) */
 
 @media screen and (max-width: 767px){
@@ -197,4 +196,4 @@ body{
 		background: blue;
 	}
 }
--
+}
